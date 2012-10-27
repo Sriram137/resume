@@ -12,11 +12,13 @@ Email: Sriram137@gmail.com
 Date of Birth: 01/05/1991
 
 Education
+---------
 
 B.Tech Computer Science 2012 National Institute of Technology, Trichy 7.86
 Class XII (CBSE) 2008 La Chatelaine 81 %
 Class X   (CBSE) 2006 La Chatelaine 91 %
 
-#Academinc Achievements and Awards#
+Academic Achievements and Awards
+--------------------------------
 
 Member of Spider
