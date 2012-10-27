@@ -3,6 +3,7 @@ Resume
 
 Sriram Ganesan
 --------------
+--------------
 Plot no 576, 18th Street,  
 Ashtalakshmi Nagar,  
 Chennai 600116  
@@ -13,12 +14,14 @@ Date of Birth: 01/05/1991
 
 Education
 ---------
+---------
 
 B.Tech Computer Science 2012 National Institute of Technology, Trichy 7.86  
 Class XII (CBSE) 2008 La Chatelaine 81 %  
 Class X   (CBSE) 2006 La Chatelaine 91 %  
 
 Academic Achievements and Awards
+--------------------------------
 --------------------------------
 
 * Member of SPIDER, computing group of NIT, Trichy involved in various technical projects and conductiong workshops related to Computer Science. The group also maintains the Spider website on the institute intranet.
@@ -27,6 +30,7 @@ Academic Achievements and Awards
 
 Internships
 -----------
+-----------
 * **Internship at Markupwand (YC funded)** : Worked on scaling and optimizing the backend
 
 * **Internship at InterviewStreet (YC funded)** : W
@@ -34,6 +38,7 @@ Internships
 * **Internship at Cisco** : 
 
 Projects
+--------
 --------
 * EratoSCP : A WinSCP like file transfer and file querying client over the network.
 
