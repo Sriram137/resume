@@ -9,7 +9,7 @@ Email         : Sriram137@gmail.com
 Date of Birth : 01/05/1991  
 
 ###Education
----------
+------------
 <p>
 <table>
     <tr>
@@ -22,32 +22,25 @@ Date of Birth : 01/05/1991
         <td>Class XII (CBSE)</td>
         <td>2008 </td>
         <td>La Chatelaine</td>
-        <td>81 %</td>
+        <td> 81%</td>
     </tr>
     <tr>
         <td>Class X   (CBSE)</td>
         <td> 2006 </td>
         <td>La Chatelaine</td>
-        <td>91 % </td>
+        <td> 91% </td>
     </tr>
 </table>
 </p>
 
-<pre>
-B.Tech Computer Science   2012   National Institute of Technology  7.86
-Class XII(CBSE)           2008   La Chatelaine                      81%
-Class X  (CBSE)           2006   La Chatelaine                      91%
-</pre>
-
 ###Academic Achievements and Awards
---------------------------------
-
+-----------------------------------
 * Secured 13th place in ACM-IPC Amritapuri onsite Regional contest 2010.
 
 * Member of SPIDER, computing group of NIT, Trichy involved in various technical projects and conductiong workshops related to Computer Science. The group also maintains the Spider website on the institute intranet.
 
 ###Internships
------------
+--------------
 * **Internship at Markupwand (YC backed)** : Worked on scaling and optimizing the backend.  
     * Stack   : Ruby(Ruby on Rails), MongoDB, Beanstalkd
     * Platform: Linux
@@ -64,7 +57,7 @@ Class X  (CBSE)           2006   La Chatelaine                      91%
     * Platform: Linux
 
 ###Projects
---------
+-----------
 * **EratoSCP** : A WinSCP like file transfer and file querying client over the network.  
     * Stack   : Python, PyGTK
     * Platform: Linux
@@ -87,6 +80,7 @@ Class X  (CBSE)           2006   La Chatelaine                      91%
     * Platform: Linux
 
 ###Software Skill Set
-------------------
-Languages         : C,C++, PHP, Python, Javascript  
-Operating Systems : Linux, Windows  
+---------------------
+* **Languages**         : C,C++, PHP, Python, Javascript  
+* **Databases**         : MongoDB, MySQL
+* **Operating Systems** : Linux, Windows  
