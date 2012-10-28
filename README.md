@@ -51,9 +51,7 @@ Date of Birth : 01/05/1991
   leaderboard, and collecting better data statistics from the codecheckers.
     * Software Stack: PHP(Codeigniter), Javascript, Python, SQL, Memcached
    
-* **Internship at Cisco** (May - July 2011) : Developed a utility which provides a web-interface
-  for troubleshooting OraService, which checks multiple device and server  
-  configurations for possible errors.  
+* **Internship at Cisco** (May - July 2011) : Developed a utility which provides a web-interface for troubleshooting OraService, which checks multiple device and server configurations for possible errors.  
     * Software Stack: HTML, PHP, Java
 
 ###Projects
