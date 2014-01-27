@@ -1,13 +1,15 @@
 Sriram Ganesan
 --------------
 <div style="float:right;align:right">
-Plot no 576, 18th Street,  
-Ashtalakshmi Nagar,  
-Chennai 600116  
+Plot no 576, 18th Street,  <br />
+Ashtalakshmi Nagar,  <br />
+Chennai 600116  <br />
 </div>
-Phone         : +91 9962273673  
-Email         : Sriram137@gmail.com  
-Date of Birth : 01/05/1991  
+<div>
+Phone         : +91 9620413137<br />
+Email         : Sriram137@gmail.com <br /> 
+Date of Birth : 01/05/1991  <br />
+</div>
 
 ###Education
 ------------
@@ -41,9 +43,15 @@ Date of Birth : 01/05/1991
 
 ###Work Experience
 ------------------
-* **Software Developer at Directi** (June 2012 - Present): Working on scaling and development of meta roster service and history storage service for chat platform Talk.to.  
+* **Software Developer at Directi** (June 2012 - Present): 
+  * Working on scaling and development of meta roster service and history storage service for chat platform Talk.to.
+  * Sole devloper of helios(health monitoring tool) and email service(service which uses internal and external smtp serivces to send out emails.)
+  * Mentor of 2 interns while devloping hailer, an announcement tool used to send messages to different users based on certain parameters.
 
-    > Software Stack   : Node.js,MongoDB
+    > Software Stack   : Node.js,Java,MongoDB
+
+###Internships
+--------------
 
 * **Internship at YC funded Markupwand** (May - June 2012) : Worked on scaling and optimizing the backend,by using a queue based worker system and migrating to MongoDB for better reliability using replica sets.  
 
@@ -70,15 +78,6 @@ Date of Birth : 01/05/1991
 * **Remote file monitoring system** : Developed an application, which monitors changes in a specific and notifies the admin, if a change is made. Also developed an internal utility which checks for changes in web-server, and notify/synchronize the change to all the other web-servers.  
 
     > Software Stack   : Python, GIT(for monitoring changes)
-
-* **SMS Server**: Involved in building a SMS queries which processes and replies to queries such as class timetable,news and cricket score.Done as a part of Spider Technical Group.  
-
-    > Software Stack   : PHP, MYSQL
-
-* **Chess Master** : Developed a online chess playing portal in which players
-  are matched against other players and rated via matchmaking.  
-
-    > Software Stack   : PHP, MYSQL, Jquery
 
 ###Software Skill Set
 ---------------------
