@@ -34,13 +34,13 @@ Email         : Sriram137@gmail.com <br />
 
 * **Software Developer at Qubole**(November 2014 - Present):
   * Lead Developer of Hbase as a service offering : Built Hbase as a offering on top existing Hadoop infrastructure end to end from the rest    APIs to changes to Hbase source code. 
-      ** From the sdk changes/APIs to the change in Hbase source code.
-      ** APIs and backend changes for incremental snapshot to S3.
-      ** APIs for managing cluster including adding/replacing nodes in a intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on the Hbase cluster.
+      * From the sdk changes/APIs to the change in Hbase source code.
+      * APIs and backend changes for incremental snapshot to S3.
+      * APIs for managing cluster including adding/replacing nodes in a intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on the Hbase cluster.
       
   * Developer of Hustler : Added new features and optimized the cluster management service which is backbone of every cluster start.
-      ** Added APIs and command type to start/scale clusters using commands or rest api/sdk.
-      ** Worked on optimizing the intial user data file using self decrypting files to bypass aws limits on user-data files.
+      * Added APIs and command type to start/scale clusters using commands or rest api/sdk.
+      * Worked on optimizing the intial user data file using self decrypting files to bypass aws limits on user-data files.
 
 * **Software Developer at Directi** (June 2012 - November 2014): 
   * Developer of Jupiter : Responsible for development and scaling of  roster storage and management system for chat service Talk.to. 
