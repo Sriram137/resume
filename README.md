@@ -6,9 +6,7 @@ Ashtalakshmi Nagar,  <br />
 Chennai 600116  <br />
 </div>
 <div>
-Phone         : +91 9620413137<br />
 Email         : Sriram137@gmail.com <br /> 
-Date of Birth : 01/05/1991  <br />
 </div>
 
 ###Education
@@ -18,25 +16,33 @@ Date of Birth : 01/05/1991  <br />
         <td>B.Tech Computer Science</td>
         <td>2012 </td>
         <td>National Institute of Technology, Trichy</td>
-        <td>7.86</td>
     </tr>
     <tr>
         <td>Class XII (CBSE)</td>
         <td>2008 </td>
         <td>La Chatelaine,Chennai</td>
-        <td> 81%</td>
     </tr>
     <tr>
         <td>Class X   (CBSE)</td>
         <td> 2006 </td>
         <td>La Chatelaine,Chennai</td>
-        <td> 91% </td>
     </tr>
 </table>
 
 ###Work Experience
 ------------------
-* **Software Developer at Directi** (June 2012 - Present): 
+
+* **Software Developer at Qubole**(November 2014 - Present):
+  * Lead Developer of Hbase as a service offering : Built Hbase as a offering on top existing Hadoop infrastructure end to end from the rest    APIs to changes to Hbase source code. 
+      ** From the sdk changes/APIs to the change in Hbase source code.
+      ** APIs and backend changes for incremental snapshot to S3.
+      ** APIs for managing cluster including adding/replacing nodes in a intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on the Hbase cluster.
+      
+  * Developer of Hustler : Added new features and optimized the cluster management service which is backbone of every cluster start.
+      ** Added APIs and command type to start/scale clusters using commands or rest api/sdk.
+      ** Worked on optimizing the intial user data file using self decrypting files to bypass aws limits on user-data files.
+
+* **Software Developer at Directi** (June 2012 - November 2014): 
   * Developer of Jupiter : Responsible for development and scaling of  roster storage and management system for chat service Talk.to. 
   * Developer of Batilus : Responsible for maintaining and configuring the mongodb backend and health of replica sets for history service Talk.to. 
   * Lead developer of Confundo : A service which enables calling of international numbers via local numbers through routing by virtual numbers.
@@ -60,26 +66,11 @@ Date of Birth : 01/05/1991  <br />
 
     > Software Stack: HTML, Javascript , Java
 
-###Projects
------------
-* **EratoSCP** : A WinSCP like file transfer and file querying client over the network. Works on platforms which support scp and python.
-
-    > Software Stack: Python, PyGTK
-
-* **Gmail ChatBot** : Developed a chatbot, which responds to User queries such as registration ,login and logs status, to check for useful trends. Developed while interning at Interviewstreet.
-
-    > Software Stack: PHP, XMPP-PHP, MYSQL
-
-* **Remote file monitoring system** : Developed an application, which monitors changes in a specific and notifies the admin, if a change is made. Also developed an internal utility which checks for changes in web-server, and notify/synchronize the change to all the other web-servers.  
-
-    > Software Stack: Python, GIT(for monitoring changes)
-
-
 ###Software Skill Set
 ---------------------
-* **Languages**         : C, C++, Java,PHP, Python, Javascript
-* **Databases**         : MongoDB, MySQL
-* **Operating Systems** : Windows, Linux
+* **Languages**         : C, C++, Java, PHP, Python, Javascript
+* **Databases**         : Hbase, MongoDB, MySQL, Hbase
+* **Frameworks**        : Flask, Rails, Angular
 
 ###Academic Achievements and Awards
 -----------------------------------
