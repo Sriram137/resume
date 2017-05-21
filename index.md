@@ -12,16 +12,16 @@ Work Experience
       * Cloud native. Can autoscale/downscale depending on the load.
       * Part of a larger effort moving Qubole Data Platform to multiple clouds
       * Won three internal "Move the needle" awards for working setting higher expectations.
-      * Was the first large scale user of Oracle BMC cloud, helping them idenity scaling issues with their cloud offering.
+      * Was the first large scale user of Oracle BMC cloud, helping them identify scaling issues with their cloud offering.
 
   * Lead Developer of **Hbase** as a service offering : Built Hbase as a offering on top of existing Hadoop infrastructure. Developed the full stack starting from REST APIs to optimizing Hbase source code. 
       * APIs and backend changes for incremental snapshot to S3.
-      * APIs for managing cluster including adding/replacing nodes in a intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on a running Hbase cluster.
+      * APIs for managing cluster including adding/replacing nodes in an intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on a running Hbase cluster.
       
       Worked with data team of Ola to help them setup their production Hbase clusters.
-      * Assist with setting correct configuration and instanc types.
+      * Assist with setting correct configuration and instance types.
       * Setup Monitoring systems.
-      * Setup Distaster Recovery with Replication and High Availability.
+      * Setup Disaster Recovery with Replication and High Availability.
 
   * Developer of Hustler : Added new features and optimized the cluster management service which is the backbone of every cluster start.
       * Added APIs and command type to start/scale clusters using commands or rest api/sdk.
