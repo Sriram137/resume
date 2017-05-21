@@ -1,7 +1,7 @@
 Sriram Ganesan
 --------------
 Email         : Sriram137@gmail.com
-Sunnyvale, CA
+Residence     : Sunnyvale, California
 
 Work Experience
 ------------------
