@@ -1,27 +1,35 @@
 Sriram Ganesan
 --------------
 Email         : Sriram137@gmail.com
+Sunnyvale, CA
 
 Work Experience
 ------------------
 
 * **Software Developer at Qubole**(November 2014 - Feb 2016):
-  * Lead Developer of **Cloudman** : Developed cluster orchestrator tool which is used as bring up cloud aware Big Data engine clusters(Hadoop/Spark/Etc).
+  * Lead Developer of **Cloudman** : Developed cluster orchestrator tool which is used for bringing up cloud aware Big Data engine clusters(Hadoop/Spark/Etc).
       * Ability to bring up clusters in multiple clouds(AWS/AZURE/ORACLE_BMC/NEBULA)
       * Cloud native. Can autoscale/downscale depending on the load.
       * Part of a larger effort moving Qubole Data Platform to multiple clouds
+      * Won three internal "Move the needle" awards for working setting higher expectations.
+      * Was the first large scale user of Oracle BMC cloud, helping them idenity scaling issues with their cloud offering.
 
-  * Lead Developer of **Hbase** as a service offering : Built Hbase as a offering on top existing Hadoop infrastructure. Developed the full stack starting from rest APIs to optimizing Hbase source code. 
+  * Lead Developer of **Hbase** as a service offering : Built Hbase as a offering on top of existing Hadoop infrastructure. Developed the full stack starting from REST APIs to optimizing Hbase source code. 
       * APIs and backend changes for incremental snapshot to S3.
       * APIs for managing cluster including adding/replacing nodes in a intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on a running Hbase cluster.
       
-  * Developer of Hustler : Added new features and optimized the cluster management service which is backbone of every cluster start.
+      Worked with data team of Ola to help them setup their production Hbase clusters.
+      * Assist with setting correct configuration and instanc types.
+      * Setup Monitoring systems.
+      * Setup Distaster Recovery with Replication and High Availability.
+
+  * Developer of Hustler : Added new features and optimized the cluster management service which is the backbone of every cluster start.
       * Added APIs and command type to start/scale clusters using commands or rest api/sdk.
-      * Worked on optimizing the intial user data file using self decrypting files to bypass aws limits on user-data files.
+      * Worked on optimizing initial user data file using self decrypting files to bypass aws limits on user-data files.
 
 * **Software Developer at Directi** (June 2012 - November 2014): 
   * Lead developer of Confundo : A service which enables calling of international numbers via local numbers through routing by virtual numbers.
-  * Lead developer of Helios(health monitoring tool) and email service(service which uses internal and external smtp services to send out emails.)
+  * Lead developer of Helios (health monitoring tool) and email service (service which uses internal and external smtp services to send out emails)
   * Developer of Jupiter : Responsible for development and scaling of  roster storage and management system for chat service Talk.to. 
   * Developer of Batilus : Responsible for maintaining and configuring the mongodb backend and health of replica sets for history service Talk.to. 
 
