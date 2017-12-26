@@ -7,22 +7,23 @@ Residence     : Sunnyvale, California
 Work Experience
 ------------------
 
-* **Software Developer at Qubole**(November 2014 - Feb 2016):
-  * Lead Developer of **Cloudman** : Developed cluster orchestrator tool which is used for bringing up cloud aware Big Data engine clusters(Hadoop/Spark/Etc).
+* **Software Developer at Qubole**(November 2014 - Now):
+  * Lead Developer of **Hbase** as a service: Lead of team building Hbase as a service from conception to production.
+    Individual contributions:
+      * Optimizing the block placement strategy in HDFS to improve perfomance and reliabilty during partial node failures.
+      * Adding Incremental backup functionality to open source Hbase's snapshot mechanism.
+      
+    Lead responsibilities:
+      * Building a unified product with APIs/ docs to take advantage of backend optimizations.
+      * Working with large companies such as Ola Cabs to onboard their workloads into our hbase platform and help them scale.
+      * Organizing meetups and increasing the adoption of Qubole's Hbase.
+
+  * Lead Developer of **Cloudman** : Developed second generation cluster orchestrator framework which is the core backbone infrastructure in cluster management.
       * Ability to bring up clusters in multiple clouds(AWS/AZURE/ORACLE_BMC/NEBULA)
       * Cloud native. Can autoscale/downscale depending on the load.
       * Part of a larger effort moving Qubole Data Platform to multiple clouds
       * Won three internal "Move the needle" awards for working setting higher expectations.
       * Was the first large scale user of Oracle BMC cloud, helping them identify scaling issues with their cloud offering.
-
-  * Lead Developer of **Hbase** as a service offering : Built Hbase as a offering on top of existing Hadoop infrastructure. Developed the full stack starting from REST APIs to optimizing Hbase source code. 
-      * APIs and backend changes for incremental snapshot to S3.
-      * APIs for managing cluster including adding/replacing nodes in an intelligent manner to play well with HDFS and maintain data locality to minimize performance impact on a running Hbase cluster.
-      
-      Worked with data team of Ola to help them setup their production Hbase clusters.
-      * Assist with setting correct configuration and instance types.
-      * Setup Monitoring systems.
-      * Setup Disaster Recovery with Replication and High Availability.
 
   * Developer of Hustler : Added new features and optimized the cluster management service which is the backbone of every cluster start.
       * Added APIs and command type to start/scale clusters using commands or rest api/sdk.
